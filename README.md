@@ -17,3 +17,11 @@ We are also web scraping the latest tsunami warning, advisory, watch, or threat 
   * Flask
   * MongoDB
   * Python
+
+* Client side
+  * HTML
+  * JavaScript
+  * Bootstrap CSS
+  * Leaflet
+  * Plotly
+  * DataTables / jQuery
