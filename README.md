@@ -11,3 +11,9 @@ We chose tsunamis because most natural disaster dashboards focus on earthquakes.
 Tsunami data is available on the Na/onal Oceanic and Atmospheric Administra/on (NOAA) website: https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/runup-search/
 
 We are also web scraping the latest tsunami warning, advisory, watch, or threat headline from https://www.tsunami.gov/
+
+### Technology Stack
+* Server side
+  * Flask
+  * MongoDB
+  * Python
